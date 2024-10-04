@@ -1,0 +1,7 @@
+echo "# Socioboard-5.0-master.zip" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ashu2wankhede/Socioboard-5.0-master.zip.git
+git push -u origin main
